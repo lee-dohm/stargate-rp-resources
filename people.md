@@ -1,4 +1,4 @@
-# Dramatis Personae
+# People
 
 ## Ancients
 

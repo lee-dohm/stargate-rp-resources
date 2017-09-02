@@ -4,5 +4,5 @@ This is a collection of [Stargate](http://stargate.wikia.com/wiki/Stargate_Wiki)
 
 ## Sections
 
-* [Dramatis Personae](dramatis-personae.md)
+* [People](people.md)
 * [Technology](technology.md)
