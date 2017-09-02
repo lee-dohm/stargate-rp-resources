@@ -1,15 +1,19 @@
 # Technology
 
+## Control Crystals
+
+Control crystals are crystals designed to regulate various functions in advanced technology. Most spacefaring races make use of crystal technology in some form.
+
 ## Naquadah
 
 [Naquadah](http://stargate.wikia.com/wiki/Naquadah) is the super-dense mineral that not only makes stargate travel possible but underlies almost all advanced technology in the Stargate universe. It comes in several forms:
 
-* Raw Naquadah
-* Refined Naquadah
-* Liquid Naquadah
-* Heavy Liquid Naquadah
-* Weapons-grade Naquadah
-* Naquadria
+* **Raw Naquadah** &mdash; Unprocessed naquadah that must be purified to be used
+* **Refined Naquadah** &mdash; Basic usable naquadah
+* **Liquid Naquadah** &mdash; Liquified naquadah used in some smaller cells mostly to power weapons such as the [Ma'Tok Staff](#matok-staff)
+* **Heavy Liquid Naquadah** &mdash; Concentrated liquid naquadah used in larger weapons
+* **Weapons-grade Naquadah** &mdash; Naquadah in its purest form
+* **Naquadria** &mdash; A radioactive form of naquadah that can be used as an enormous power source but is highly unstable
 
 ## Stargates and the Stargate System
 
