@@ -21,7 +21,7 @@ Stargates provide point-to-point near-instantaneous faster-than-light travel, ty
 
 ### Transport Rings
 
-Transport rings are a short-range version of the stargate technology. Their range is enough to go from a planet's surface into orbit, but not much further.
+Transport rings are a short-range version of the stargate technology. Their range is enough to go from a planet's surface into orbit or from one starship to another in relative proximity.
 
 ## Starships
 
