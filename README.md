@@ -6,3 +6,8 @@ This is a collection of [Stargate](http://stargate.wikia.com/wiki/Stargate_Wiki)
 
 * [People](people.md)
 * [Technology](technology.md)
+
+## References
+
+* [Stargate Lexicon](http://www.rdanderson.com/stargate/stargate.htm)
+* [Stargate Wiki](http://stargate.wikia.com/wiki/Stargate_Wiki)
