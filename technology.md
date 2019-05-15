@@ -21,7 +21,7 @@ Stargates provide point-to-point near-instantaneous faster-than-light travel, ty
 
 39 symbols, 6 symbols to make up the destination portion of an address = 3,262,623 possible addresses in the Milky Way gate system.
 
-**Stargate:** Teleportation 100m with 32x Extra Mass 130pts, MegaScale (1,000 ly scale - 100,000 ly max) +5, AoE 4m radius +0.25, Constant +0.5, Gate -0.25; OIF (Stargate and DHD), Immovable, Extremely Difficult to Obtain -2.5 -- **Active Cost:** 877, **Real Cost:** 234
+**Stargate:** Teleportation 100m with 32x Extra Mass 130pts, MegaScale (1,000 ly scale) +5, AoE 4m radius +0.25, Constant +0.5, Gate -0.25; OIF (Stargate and DHD), Immovable, Extremely Difficult to Obtain -2.5 -- **Active Cost:** 844, **Real Cost:** 225
 
 ### Transport Rings
 
