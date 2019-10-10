@@ -46,3 +46,20 @@ Transport rings are a short-range version of the stargate technology. Their rang
 ### Tok'Kal Grenade
 
 ### Zat'nik'tel
+
+## Goa'uld Devices
+
+### Hand Device
+
+### Healing Device
+
+### Sarcophagus
+
+A Goa'uld Sarcophagus is a technology that can heal any wound and even bring humans and Jaffa back from the dead. It does have one major downside, however, in that it causes megalomania in anyone who uses it over an extended period.
+
+**Sarcophagus:**
+
+* Healing BODY 4d6, Can Heal Limbs, Resurrection, Decreased Re-use Duration (1 Hour; +1/2) (97 Active Points); Extra Time (20 Minutes, Character May Take No Other Actions, -2 3/4), OAF Immobile Durable Expendable (Difficult to obtain new Focus; -2 1/4)
+* _Inflict Megalomania:_ Major Transform 1d6 (Normal person into megalomaniac: Adds Psych Complication Megalomania Common/Total) (10 Active Points); Extra Time (20 Minutes, -2 1/2), OAF Immobile Durable Expendable (Difficult to obtain new Focus; -2 1/4)
+
+**Active Cost:** 107, **Real Cost:** 18
