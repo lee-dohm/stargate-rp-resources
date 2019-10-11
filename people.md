@@ -24,7 +24,7 @@ A parasitic race of snake-like beings that inhabit human hosts and take them ove
 
 ## Jaffa
 
-A race of offshoot humans who serve the [Goa'uld](#goauld) and incubate their young in marsupial-like pouches.
+A race of offshoot humans who serve the [Goa'uld](#goauld) and incubate the Goa'uld larva, called _prim'tah_, in marsupial-like pouches.
 
 ## Tau'ri
 

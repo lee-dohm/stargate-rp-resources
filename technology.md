@@ -49,7 +49,11 @@ Transport rings are a short-range version of the stargate technology. Their rang
 
 ## Goa'uld Devices
 
+While all of the technology so far has been utilized or provided by the [Goa'uld](people.md#goauld), these are the devices that they restrict to their own use.
+
 ### Hand Device
+
+All Goa'uld wear a hand device at virtually all times. It serves as an interface to other Goa'uld technology, a weapon, a shield, and probably other functions.
 
 ### Healing Device
 
