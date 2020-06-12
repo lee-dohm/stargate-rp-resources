@@ -1,9 +1,5 @@
 # People
 
-## Ancients
-
-The race of people that created the stargate system. They have ascended to a higher plane of existence and are now composed only of energy.
-
 ## Asgard
 
 Little gray men who masqueraded as the Norse gods long ago and now protect several planets of humans under the Asgard-Goa'uld Protected Planets Treaty.
@@ -128,7 +124,3 @@ Value | Complication
 0 | _Kelno'reem:_ Dependence &mdash; must meditate daily instead of sleep, 1d6 damage, Very Easy, Daily
 
 **Total Cost:** 36
-
-## Tok'ra
-
-An offshoot of the Goa'uld that are symbiotic rather than parasitic in nature.
