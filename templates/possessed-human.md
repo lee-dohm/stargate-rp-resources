@@ -17,4 +17,10 @@ Cost | Ability
 5  | **Life Support:** Immunity to all terrestrial poisons
 4  | Regeneration 1xREC in BODY per Day
 
-**Total Cost:** 57
+**Complications**
+
+Value | Complication
+-----:|-------------
+25 | **Psych:** Goa'uld Megalomania &mdash; Very Common, Total
+
+**Total Cost:** 32
