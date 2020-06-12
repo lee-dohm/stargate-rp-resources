@@ -17,7 +17,7 @@ Control crystals are crystals designed to regulate various functions in advanced
 
 ## Stargates and the Stargate System
 
-Stargates provide point-to-point near-instantaneous faster-than-light travel, typically between two worlds. Any stargate can connect to any other stargate so long as there is sufficient power available and one knows the address of the destination gate. It does this by creating a stable wormhole that will allow matter to pass only from the source gate to the destination gate but will allow electromagnetism, gravity, and possibly other forms of energy to flow both directions.
+Stargates, also called _chaapa-ai_ in the language of the natives kidnapped by the Goa'uld from Earth, provide point-to-point near-instantaneous faster-than-light travel, typically between two worlds. Any stargate can connect to any other stargate so long as there is sufficient power available and one knows the address of the destination gate. It does this by creating a stable wormhole that will allow matter to pass only from the source gate to the destination gate but will allow electromagnetism, gravity, and possibly other forms of energy to flow both directions.
 
 A gate has 39 symbols on it. A gate address is made up of 6 symbols for the destination portion. This means there are 3,262,623 possible addresses in the Milky Way gate system.
 
