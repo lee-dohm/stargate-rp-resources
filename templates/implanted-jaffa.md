@@ -21,6 +21,7 @@ Cost | Ability
 
 Value | Complication
 -----:|-------------
-0 | _Kelno'reem:_ Dependence &mdash; must meditate daily instead of sleep, 1d6 damage, Very Easy, Daily
+0  | _Kelno'reem:_ Dependence &mdash; must meditate daily instead of sleep, 1d6 damage, Very Easy, Daily
+25 | _Requires Goa'uld larva to live:_ Dependence &mdash; 2d6 damage and weakness, Difficult, 20 minutes
 
-**Total Cost:** 36
+**Total Cost:** 11
