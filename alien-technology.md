@@ -69,7 +69,14 @@ All Goa'uld weapons have the following modifiers:
 
 Because of the advanced nature of Goa'uld technology, these weapons do not suffer the **Real Weapon** or **Charges** limitations that corresponding [human weaponry](#human-weapons) does.
 
-#### Ma'Tok Staff
+#### Staff Weapon
+
+The Goa'uld staff weapon is the preferred weapon of Jaffa warriors. It uses a liquid naquadah power source and fires an energy blast, the power of which is variable depending on factors such as the time allowed for recycling between shots. It is a weapon of great power and endurance, but less accurate than Earth weapons.
+
+**Staff Weapon:**
+
+* 2d6 RKA, STR Min 12, -1 RMod, 4 shots per Turn (due to liquid naquadah battery)
+* _Liquid Naquadah Battery_ &mdash; 12 END 12 REC Reserve
 
 #### Tok'Kal Grenade
 
