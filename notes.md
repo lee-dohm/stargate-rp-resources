@@ -8,62 +8,7 @@ The campaign would start at about Season 2 of the Stargate SG-1 television serie
 
 Because the Stargate campaign consists of many cultures at varying levels of development, there are differing sets of everyman skills based on the culture in which one was raised. All characters from these cultures have each of the everyman skills at the "familiarity" level, an 8- roll, for free.
 
-### Jaffa
-
-This set of everyman skills is for Jaffa that were raised in service to a Goa'uld.
-
-* Acting
-* Climbing
-* Concealment
-* Conversation
-* Deduction
-* Native language (4 points' worth, no literacy)
-* Persuasion
-* One PS at 11-
-* Shadowing
-* Stealth
-* TF: One Goa'uld vehicle (see [the list](alien-technology.md#starships) for reference)
-* AK: Home country or region 8-
-
-### Non-Earth Human
-
-These are any humans that are not Jaffa or Tau'ri, generally raised in a culture enslaved by the Goa'uld and kept at a low level of technology.
-
-* Acting
-* Climbing
-* Concealment
-* Conversation
-* Deduction
-* Native language (4 points' worth, no literacy)
-* Paramedics (Healing)
-* Persuasion
-* One PS at 11-
-* Shadowing
-* Stealth
-* TF: Horses, or small wind-powered boats
-* AK: Home country or region 8-
-
-### Tau'ri
-
-The Tau'ri are humans of Earth. Because the Tau'ri characters (player or non-player) will be members of the SGC, these everyman skills represent someone raised in one of the developed countries of the world such as the United States, Canada, or Russia.
-
-* Acting
-* Climbing
-* Concealment
-* Conversation
-* Deduction
-* Native Language (4 points' worth, including literacy)
-* Paramedics
-* Persuasion
-* One PS at 11-
-* Shadowing
-* Stealth
-* TF: Small motorized ground vehicles
-* AK: Home country or region 8-
-
-## Templates
-
-These templates serve as starting points for characters of certain backgrounds.
+See the appropriate sections in [People](people.md) for the various cultures' everyman skills list.
 
 ## Quirks
 

@@ -41,9 +41,64 @@ Cost | Ability
 
 The species of sapient humanoid indigenous to Earth. The term _Tau'ri_ specifically refers to the humans of Earth.
 
+### Everyman Skills
+
+#### Non-Earth Human
+
+These are any humans that are not Jaffa or Tau'ri, generally raised in a culture enslaved by the Goa'uld and kept at a low level of technology.
+
+* Acting
+* Climbing
+* Concealment
+* Conversation
+* Deduction
+* Native language (4 points' worth, no literacy)
+* Paramedics (Healing)
+* Persuasion
+* One PS at 11-
+* Shadowing
+* Stealth
+* TF: Horses, or small wind-powered boats
+* AK: Home country or region 8-
+
+#### Tau'ri
+
+The Tau'ri are humans of Earth. Because the Tau'ri characters (player or non-player) will be members of the SGC, these everyman skills represent someone raised in one of the developed countries of the world such as the United States, Canada, or Russia.
+
+* Acting
+* Climbing
+* Concealment
+* Conversation
+* Deduction
+* Native Language (4 points' worth, including literacy)
+* Paramedics
+* Persuasion
+* One PS at 11-
+* Shadowing
+* Stealth
+* TF: Small motorized ground vehicles
+* AK: Home country or region 8-
+
 ## Jaffa
 
 A subspieces of humans who serve the [Goa'uld](#goauld) and incubate the Goa'uld larva, called _prim'tah_, in marsupial-like pouches.
+
+### Everyman Skills
+
+This set of everyman skills is for Jaffa that were raised in service to a Goa'uld.
+
+* Acting
+* Climbing
+* Concealment
+* Conversation
+* Deduction
+* Native language (4 points' worth, no literacy)
+* Persuasion
+* One PS at 11-
+* Shadowing
+* Stealth
+* TF: One Goa'uld vehicle (see [the list](alien-technology.md#starships) for reference)
+* AK: Home country or region 8-
 
 ### Template: Implanted Jaffa
 
