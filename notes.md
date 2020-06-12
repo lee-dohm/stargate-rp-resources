@@ -45,7 +45,7 @@ These are any humans that are not Jaffa or Tau'ri, generally raised in a culture
 
 ### Tau'ri
 
-The Tau'ri are humans of Earth, raised in one of the developed countries of the world such as the United States, Canada, or Russia.
+The Tau'ri are humans of Earth. Because the Tau'ri characters (player or non-player) will be members of the SGC, these everyman skills represent someone raised in one of the developed countries of the world such as the United States, Canada, or Russia.
 
 * Acting
 * Climbing
