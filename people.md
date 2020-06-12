@@ -12,28 +12,13 @@ An advanced alien race that is part of the [Alliance of Four Great Races](http:/
 
 A parasitic race of aquatic snake-like beings that inhabit hosts, most often human, and possess them.
 
-### Apophis
+### Characters
 
-Egyptian god of the night that was the rival to Ra and became the leader of the Goa'uld System Lords upon Ra's demise.
+* [Apophis](characters/apophis.md)
 
-### Template: Possessed Human
+### Templates
 
-**Abilities**
-
-Cost | Ability
-----:|--------
-10 | +10 STR
-16 | +8 DEX
-5  | +5 CON
-4  | +4 REC
-3  | Detect Goa'uld symbiote (PER roll)
-&nbsp; | _Goa'uld Regeneration_
-5  | **Life Support:** Immortal
-5  | **Life Support:** Immunity to all terrestrial diseases
-5  | **Life Support:** Immunity to all terrestrial poisons
-4  | Regeneration 1xREC in BODY per Day
-
-**Total Cost:** 57
+* [Possessed Human](templates/possessed-human.md)
 
 ## Humans
 
@@ -98,29 +83,6 @@ This set of everyman skills is for Jaffa that were raised in service to a Goa'ul
 * TF: One Goa'uld vehicle (see [the list](alien-technology.md#starships) for reference)
 * AK: Home country or region 8-
 
-### Template: Implanted Jaffa
+### Templates
 
-Represents an adult Jaffa carrying a Goa'uld larva.
-
-**Abilities**
-
-Cost | Ability
-----:|--------
-5 | +5 STR
-6 | +3 DEX
-3 | +3 CON
-4 | +4 REC
-3 | Detect Goa'uld Symbiote (PER roll)
-&nbsp; | _Goa'uld Regeneration_
-1 | **Life Support:** Longevity 2x lifespan
-5 | **Life Support:** Immunity to all terrestrial diseases
-5 | **Life Support:** Immunity to all terrestrial poisons
-4 | Regeneration 1xREC in BODY per Day
-
-**Complications**
-
-Value | Complication
------:|-------------
-0 | _Kelno'reem:_ Dependence &mdash; must meditate daily instead of sleep, 1d6 damage, Very Easy, Daily
-
-**Total Cost:** 36
+* [Implanted Jaffa](templates/implanted-jaffa.md)
