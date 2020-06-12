@@ -49,7 +49,7 @@ The Goa'uld death glider is a two-seater attack vessel which usually launches fr
 
 **See also:** [Lexicon: Ha'tak](http://www.rdanderson.com/stargate/lexicon/entries/hatak.htm)
 
-The Goa'uld ha'tak class vessel, or pyramid ship, is an attack vessel, also referred to as a mothership. It is capable of hyperdrive at many times the speed of light, is heavily armed, shielded, large enough to carry thousands of warriors and to launch a legion of death gliders against the enemy, and capable of destroying a planet from space. 
+The Goa'uld ha'tak class vessel, or pyramid ship, is an attack vessel, also referred to as a mothership. It is capable of hyperdrive at many times the speed of light, is heavily armed, shielded, large enough to carry thousands of warriors and to launch a legion of death gliders against the enemy, and capable of destroying a planet from space.
 
 ### Teltac
 
