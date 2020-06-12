@@ -1,6 +1,6 @@
 # Template: Possessed Human
 
-
+Represents a human that has been possessed by a full-grown Goa'uld symbiote.
 
 **Abilities**
 
