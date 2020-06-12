@@ -30,13 +30,14 @@ Cost | Ability
 16 | +8 DEX
 5  | +5 CON
 4  | +4 REC
+3  | Detect Goa'uld symbiote (PER roll)
 &nbsp; | _Goa'uld Regeneration_
 5  | **Life Support:** Immortal
 5  | **Life Support:** Immunity to all terrestrial diseases
 5  | **Life Support:** Immunity to all terrestrial poisons
 4  | Regeneration 1xREC in BODY per Day
 
-**Total Cost:** 54
+**Total Cost:** 57
 
 ## Humans
 
@@ -113,6 +114,7 @@ Cost | Ability
 6 | +3 DEX
 3 | +3 CON
 4 | +4 REC
+3 | Detect Goa'uld Symbiote (PER roll)
 &nbsp; | _Goa'uld Regeneration_
 1 | **Life Support:** Longevity 2x lifespan
 5 | **Life Support:** Immunity to all terrestrial diseases
@@ -125,7 +127,7 @@ Value | Complication
 -----:|-------------
 0 | _Kelno'reem:_ Dependence &mdash; must meditate daily instead of sleep, 1d6 damage, Very Easy, Daily
 
-**Total Cost:** 33
+**Total Cost:** 36
 
 ## Tok'ra
 
