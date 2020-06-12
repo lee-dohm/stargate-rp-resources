@@ -8,9 +8,38 @@ Because the Stargate campaign consists of many cultures both primitive, modern, 
 
 ### Jaffa
 
+This set of everyman skills is for Jaffa that were raised in service to a Goa'uld.
+
+* Acting
+* Climbing
+* Concealment
+* Conversation
+* Deduction
+* Native language (4 points' worth, no literacy)
+* Persuasion
+* One PS at 11-
+* Shadowing
+* Stealth
+* TF: Goa'uld vehicles
+* AK: Home country or region 8-
+
 ### Primitive human
 
 These are any humans that are not Jaffa or Tau'ri, generally raised in a primitive culture in worship of the Goa'uld.
+
+* Acting
+* Climbing
+* Concealment
+* Conversation
+* Deduction
+* Native language (4 points' worth, no literacy)
+* Paramedics (Healing)
+* Persuasion
+* One PS at 11-
+* Shadowing
+* Stealth
+* TF: Small wind-powered boats or horses
+* AK: Home country or region 8-
 
 ### Tau'ri
 
