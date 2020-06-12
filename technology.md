@@ -21,13 +21,13 @@ Stargates, also called _chaapa-ai_ in the language of the natives kidnapped by t
 
 A gate has 39 symbols on it. A gate address is made up of 6 symbols for the destination portion. This means there are 3,262,623 possible addresses in the Milky Way gate system.
 
-**Stargate:** Teleportation 100m with 32x Extra Mass 125pts; MegaScale (1,000ly scale) +5, AoE 4m radius +0.25, Constant +0.5, Usable by Others +0.25; Gate -0.5 (_see:_ 6E1 301), OIF (Stargate and DHD), Immovable, Extremely Difficult to Obtain -2.5 -- **Active Cost:** 875, **Real Cost:** 219
+**Stargate:** Teleportation 100m with 32x Extra Mass 125pts; MegaScale (1,000ly scale) +5, AoE 4m radius +0.25, Constant +0.5, Usable by Others +0.25; Gate -0.5 (_see:_ 6E1 301), OIF (Stargate and DHD), Immovable, Extremely Difficult to Obtain -2.5 &mdash; **Active Cost:** 875, **Real Cost:** 219
 
 ### Transport Rings
 
 Transport rings are a short-range version of the stargate technology. Their range is enough to go from a planet's surface into orbit or from one starship to another in relative proximity.
 
-**Transport Rings:** Teleportation 100m with 8x Extra Mass 115pts; MegaScale (1,000km scale) +1.75, AoE 2m radius +0.25, Usable by Others +0.25; Gate -0.5 (_see:_ 6E1 301), OIF (Transport rings), Immovable, Difficult to Obtain -2 -- **Active Cost:** 431, **Real Cost:** 123
+**Transport Rings:** Teleportation 100m with 8x Extra Mass 115pts; MegaScale (1,000km scale) +1.75, AoE 2m radius +0.25, Usable by Others +0.25; Gate -0.5 (_see:_ 6E1 301), OIF (Transport rings), Immovable, Difficult to Obtain -2 &mdash; **Active Cost:** 431, **Real Cost:** 123
 
 ## Starships
 
@@ -41,11 +41,43 @@ Transport rings are a short-range version of the stargate technology. Their rang
 
 ## Weapons
 
-### Ma'Tok Staff
+### Goa'uld Weapons
 
-### Tok'Kal Grenade
+All Goa'uld weapons have the following modifiers:
 
-### Zat'nik'tel
+* **Focus:** OAF, Universal _see_ 6E1 376
+* **STR Minimum** _see_ 6E2 199
+* **Beam** _see_ 6E1 145
+
+Because of the advanced nature of Goa'uld technology, these weapons do not suffer the **Real Weapon** or **Charges** limitations that corresponding [human weaponry](#human-weapons) does.
+
+#### Ma'Tok Staff
+
+#### Tok'Kal Grenade
+
+#### Zat'nik'tel
+
+### Human Weapons
+
+All human weapons have the following modifiers:
+
+* **Focus:** OAF, Universal _see_ 6E1 376
+* **STR Minimum** _see_ 6E2 199
+* **Beam** _see_ 6E1 145
+* **Real Weapon** _see_ 6E2 200-201, which also makes them susceptible to firearms malfunction rules, _see_ 6E2 207
+* **Charges** _see_ 6E1 367
+
+#### Sidearm
+
+The standard human technology sidearm of the SGC, _see_ HSEG 72. M9 is the military designation for the civilian Beretta 92FS.
+
+**Beretta 92FS/M9:** 1d6+1 RKA, 15 shots, STR Min 9, 1kg mass, 200m range &mdash; **Active Cost:** 20, **Real Cost:** 7
+
+#### Submachinegun
+
+The standard human technology primary weapon of the SGC, _see_ HSEG 74.
+
+**H&K MP5:** 1d6+1 RKA, 30 shots, STR Min 12, 2.60kg mass, 200m range, AF5 &mdash; **Active Cost:** 37, **Real Cost:** 13
 
 ## Goa'uld Devices
 
