@@ -82,7 +82,7 @@ The Tau'ri are humans of Earth. Because the Tau'ri characters (player or non-pla
 
 ## Jaffa
 
-A subspieces of humans who serve the [Goa'uld](#goauld) and incubate the Goa'uld larva, called _prim'tah_, in marsupial-like pouches.
+A subspieces of humans who serve the [Goa'uld](#goauld) and incubate the Goa'uld larva, called _prim'ta_, in marsupial-like pouches.
 
 ### Everyman Skills
 
