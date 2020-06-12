@@ -59,6 +59,10 @@ The Tau'ri are humans of Earth, raised in one of the modern cultures of the worl
 * TF: Small motorized ground vehicles
 * AK: Home country or region 8-
 
+## Templates
+
+These templates serve as starting points for characters of certain backgrounds.
+
 ## Quirks
 
 ### Language
