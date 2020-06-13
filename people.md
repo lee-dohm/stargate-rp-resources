@@ -18,17 +18,19 @@ An advanced alien race that is part of the [Alliance of Four Great Races](http:/
 
 ## Goa'uld
 
-A parasitic race of snake-like beings that inhabit human hosts and take them over.
+A parasitic race of aquatic snake-like beings that inhabit hosts, most often human, and possess them.
 
 ### Apophis
 
+Egyptian god of the night that was the rival to Ra and became the leader of the Goa'uld System Lords upon Ra's demise.
+
+## Humans
+
+The species of sapient humanoid indigenous to Earth. The term _Tau'ri_ specifically refers to the humans of Earth.
+
 ## Jaffa
 
-A race of offshoot humans who serve the [Goa'uld](#goauld) and incubate the Goa'uld larva, called _prim'tah_, in marsupial-like pouches.
-
-## Tau'ri
-
-Humans in general and, more specifically, the humans of Earth.
+A subspieces of humans who serve the [Goa'uld](#goauld) and incubate the Goa'uld larva, called _prim'tah_, in marsupial-like pouches.
 
 ## Tok'ra
 
