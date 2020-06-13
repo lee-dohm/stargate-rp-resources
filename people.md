@@ -8,10 +8,6 @@ The race of people that created the stargate system. They have ascended to a hig
 
 Little gray men who masqueraded as the Norse gods long ago and now protect several planets of humans under the Asgard-Goa'uld Protected Planets Treaty.
 
-### Thor
-
-Supreme Commander of the Asgard Fleet.
-
 ## Furlings
 
 An advanced alien race that is part of the [Alliance of Four Great Races](http://stargate.wikia.com/wiki/Alliance_of_Four_Great_Races).

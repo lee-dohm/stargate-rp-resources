@@ -2,6 +2,8 @@
 
 I think I've always wanted to do a Stargate role play campaign because the setting reminds me of the original X-COM video game. In the beginning, the alien threat seems invincible and insurmountable. But step-by-step, adventure-by-adventure, the heroes grow in knowledge, capability, and power, until eventually they equal and perhaps even surpass the invaders.
 
+The campaign would start at about Season 2 of the Stargate SG-1 television series. This means that the heroes would possess basic knowledge of the Stargate network and have a large number of gate addresses to explore. But even a single Goa'uld would be impossible to defeat at this point in their development. The team's survival would be dependent on avoidance and escape.
+
 ## Everyman Skills
 
 Because the Stargate campaign consists of many cultures both primitive, modern, and advanced, there are differing sets of everyman skills based on the culture in which one was raised. All characters from these cultures have each of the everyman skills at the "familiarity" level, an 8- roll, for free.
