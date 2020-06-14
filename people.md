@@ -20,6 +20,23 @@ A parasitic race of aquatic snake-like beings that inhabit hosts, most often hum
 
 Egyptian god of the night that was the rival to Ra and became the leader of the Goa'uld System Lords upon Ra's demise.
 
+### Template: Possessed Human
+
+**Abilities**
+
+Cost | Ability
+----:|--------
+10 | +10 STR
+16 | +8 DEX
+5  | +5 CON
+4  | +4 REC
+5  | **Life Support:** Immortal
+5  | **Life Support:** Immunity to all terrestrial diseases
+5  | **Life Support:** Immunity to all terrestrial poisons
+4  | _Goa'uld Regeneration:_ Regeneration 1xREC in BODY per Day
+
+**Total Cost:** 54
+
 ## Humans
 
 The species of sapient humanoid indigenous to Earth. The term _Tau'ri_ specifically refers to the humans of Earth.
@@ -40,7 +57,10 @@ Cost | Ability
 6 | +3 DEX
 3 | +3 CON
 4 | +4 REC
-1 | Longevity 2x lifespan
+1 | **Life Support:** Longevity 2x lifespan
+5 | **Life Support:** Immunity to all terrestrial diseases
+5 | **Life Support:** Immunity to all terrestrial poisons
+4 | _Goa'uld Regeneration:_ Regeneration 1xREC in BODY per Day
 
 **Complications**
 
@@ -48,7 +68,7 @@ Value | Complication
 -----:|-------------
 0 | _Kelno'reem:_ Dependence &mdash; must meditate daily instead of sleep, 1d6 damage, Very Easy, Daily
 
-**Total Cost:** 19
+**Total Cost:** 33
 
 ## Tok'ra
 
