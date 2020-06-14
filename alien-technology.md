@@ -33,13 +33,29 @@ Transport rings are a short-range version of the stargate technology. Their rang
 
 ## Starships
 
-### Al'kesh
+### Alkesh
+
+**See also:** [Lexicon: Alkesh](http://www.rdanderson.com/stargate/lexicon/entries/alkesh.htm)
+
+An alkesh is a Goa'uld mid-range bomber capable of hyperspace travel and equipped with a ring transporter and cloaking capabilities. Able to attack a Goa'uld mothership because of its speed and maneuverability, it is less maneuverable than a death glider, but superior in size and armaments. Often used by the Goa'uld for aerial attacks, the alkesh can also carry vast armies for ground assaults.
 
 ### Death Glider
 
+**See also:** [Lexicon: Death Glider](http://www.rdanderson.com/stargate/lexicon/entries/deathglider.htm)
+
+The Goa'uld death glider is a two-seater attack vessel which usually launches from a larger mothership and is highly maneuverable. Death gliders are used in aerial assaults of a planet's surface as well as against other spacecraft.
+
 ### Ha'tak
 
-### Tel'tak
+**See also:** [Lexicon: Ha'tak](http://www.rdanderson.com/stargate/lexicon/entries/hatak.htm)
+
+The Goa'uld ha'tak class vessel, or pyramid ship, is an attack vessel, also referred to as a mothership. It is capable of hyperdrive at many times the speed of light, is heavily armed, shielded, large enough to carry thousands of warriors and to launch a legion of death gliders against the enemy, and capable of destroying a planet from space. 
+
+### Teltac
+
+**See also:** [Lexicon: Teltac](http://www.rdanderson.com/stargate/lexicon/entries/teltac.htm)
+
+A teltac is a cargo ship, sometimes referred to as a scout ship, often used by the Goa'uld, the Jaffa, and the Tok'ra. Capable of traveling in hyperspace, most are equipped with cloaking technology, transport rings, and descent pods. Teltacs are maneuverable because of their size, however they are not armed with weapons since they are used primarily as transport vessels.
 
 ## Weapons
 
@@ -58,6 +74,7 @@ Because of the advanced nature of Goa'uld technology, these weapons do not suffe
 #### Tok'Kal Grenade
 
 #### Zat'nik'tel
+
 ## Goa'uld Devices
 
 While all of the technology so far has been utilized or provided by the [Goa'uld](people.md#goauld), these are the devices that they restrict to their own use.
