@@ -4,11 +4,12 @@ This is a collection of [Stargate](http://stargate.wikia.com/wiki/Stargate_Wiki)
 
 ## Sections
 
-* [Equipment and Technology](technology.md)
+* [Alien Technology](alien-technology.md)
+* [Human Equipment](human-equipment.md)
 * [Notes](notes.md)
 * [People](people.md)
 
 ## References
 
-* [Stargate Lexicon](http://www.rdanderson.com/stargate/stargate.htm)
+* [Stargate Lexicon](http://www.rdanderson.com/stargate/lexicon/index.htm)
 * [Stargate Wiki](http://stargate.wikia.com/wiki/Stargate_Wiki)

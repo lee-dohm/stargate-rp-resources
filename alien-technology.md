@@ -1,4 +1,4 @@
-# Technology
+# Alien Technology
 
 ## Control Crystals
 
@@ -58,29 +58,6 @@ Because of the advanced nature of Goa'uld technology, these weapons do not suffe
 #### Tok'Kal Grenade
 
 #### Zat'nik'tel
-
-### Human Weapons
-
-All human weapons have the following modifiers:
-
-* **Focus:** OAF, Universal _see_ 6E1 376
-* **STR Minimum** _see_ 6E2 199
-* **Beam** _see_ 6E1 145
-* **Real Weapon** _see_ 6E2 200-201, which also makes them susceptible to firearms malfunction rules, _see_ 6E2 207
-* **Charges** _see_ 6E1 367
-
-#### Sidearm
-
-The standard human technology sidearm of the SGC, _see_ HSEG 72. M9 is the military designation for the civilian Beretta 92FS.
-
-**Beretta 92FS/M9:** 1d6+1 RKA, 15 shots, STR Min 9, 1kg mass, 200m range &mdash; **Active Cost:** 20, **Real Cost:** 7
-
-#### Submachinegun
-
-The standard human technology primary weapon of the SGC, _see_ HSEG 74.
-
-**H&K MP5:** 1d6+1 RKA, 30 shots, STR Min 12, 2.60kg mass, 200m range, AF5 &mdash; **Active Cost:** 37, **Real Cost:** 13
-
 ## Goa'uld Devices
 
 While all of the technology so far has been utilized or provided by the [Goa'uld](people.md#goauld), these are the devices that they restrict to their own use.
