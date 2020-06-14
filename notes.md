@@ -6,7 +6,7 @@ The campaign would start at about Season 2 of the Stargate SG-1 television serie
 
 ## Everyman Skills
 
-Because the Stargate campaign consists of many cultures both primitive, modern, and advanced, there are differing sets of everyman skills based on the culture in which one was raised. All characters from these cultures have each of the everyman skills at the "familiarity" level, an 8- roll, for free.
+Because the Stargate campaign consists of many cultures at varying levels of development, there are differing sets of everyman skills based on the culture in which one was raised. All characters from these cultures have each of the everyman skills at the "familiarity" level, an 8- roll, for free.
 
 ### Jaffa
 
@@ -25,9 +25,9 @@ This set of everyman skills is for Jaffa that were raised in service to a Goa'ul
 * TF: Goa'uld vehicles
 * AK: Home country or region 8-
 
-### Primitive human
+### Non-Earth Human
 
-These are any humans that are not Jaffa or Tau'ri, generally raised in a primitive culture in worship of the Goa'uld.
+These are any humans that are not Jaffa or Tau'ri, generally raised in a culture enslaved by the Goa'uld and kept at a low level of technology.
 
 * Acting
 * Climbing
@@ -40,12 +40,12 @@ These are any humans that are not Jaffa or Tau'ri, generally raised in a primiti
 * One PS at 11-
 * Shadowing
 * Stealth
-* TF: Small wind-powered boats or horses
+* TF: Horses, or small wind-powered boats
 * AK: Home country or region 8-
 
 ### Tau'ri
 
-The Tau'ri are humans of Earth, raised in one of the modern cultures of the world.
+The Tau'ri are humans of Earth, raised in one of the developed countries of the world such as the United States, Canada, or Russia.
 
 * Acting
 * Climbing
@@ -68,5 +68,7 @@ These templates serve as starting points for characters of certain backgrounds.
 ## Quirks
 
 ### Language
+
+**See also:** [TV Tropes: Aliens Speaking English](https://tvtropes.org/pmwiki/pmwiki.php/Main/AliensSpeakingEnglish)
 
 One of the quirks of the television series, which these resources are largely based upon, is that while there are native language terms sprinkled here and there, everyone speaks and understands modern English. This is something that the campaign will maintain.
