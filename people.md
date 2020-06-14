@@ -28,6 +28,28 @@ The species of sapient humanoid indigenous to Earth. The term _Tau'ri_ specifica
 
 A subspieces of humans who serve the [Goa'uld](#goauld) and incubate the Goa'uld larva, called _prim'tah_, in marsupial-like pouches.
 
+### Template: Implanted Jaffa
+
+Represents an adult Jaffa carrying a Goa'uld larva.
+
+**Abilities**
+
+Cost | Ability
+----:|--------
+5 | +5 STR
+6 | +3 DEX
+3 | +3 CON
+4 | +4 REC
+1 | Longevity 2x lifespan
+
+**Complications**
+
+Value | Complication
+-----:|-------------
+0 | _Kelno'reem:_ Dependence &mdash; must meditate daily instead of sleep, 1d6 damage, Very Easy, Daily
+
+**Total Cost:** 19
+
 ## Tok'ra
 
 An offshoot of the Goa'uld that are symbiotic rather than parasitic in nature.
