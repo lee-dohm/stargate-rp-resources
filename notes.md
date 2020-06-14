@@ -22,7 +22,7 @@ This set of everyman skills is for Jaffa that were raised in service to a Goa'ul
 * One PS at 11-
 * Shadowing
 * Stealth
-* TF: Goa'uld vehicles
+* TF: One Goa'uld vehicle (see [the list](alien-technology.md#starships) for reference)
 * AK: Home country or region 8-
 
 ### Non-Earth Human
