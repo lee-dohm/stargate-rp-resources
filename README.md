@@ -11,5 +11,5 @@ This is a collection of [Stargate](http://stargate.wikia.com/wiki/Stargate_Wiki)
 
 ## References
 
-* [Stargate Lexicon](http://www.rdanderson.com/stargate/stargate.htm)
+* [Stargate Lexicon](http://www.rdanderson.com/stargate/lexicon/index.htm)
 * [Stargate Wiki](http://stargate.wikia.com/wiki/Stargate_Wiki)
