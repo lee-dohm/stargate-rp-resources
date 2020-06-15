@@ -69,11 +69,11 @@ Cost | Skill | Roll
 4 | Language: Common &mdash; fluent, literacy | &mdash;
 3 | Oratory | 12-
 5 | PS: Goa'uld System Lord | 14-
-5 | SS: Goa'uld technology | 14-
+7 | SS: Goa'uld technology | 16-
 2 | TF: Goa'uld Spaceships | &mdash;
 2 | WF: Common Goa'uld weaponry | &mdash;
 
-**Total Skills Cost:** 66
+**Total Skills Cost:** 68
 
 ## Complications
 
@@ -90,9 +90,9 @@ Section | Cost
 Characteristics | 137
 Movement        | 0
 Powers          | 22
-Skills          | 66
+Skills          | 68
 Complications   | -25
-**Total**       | 200
+**Total**       | 202
 
 ## Equipment
 
