@@ -65,15 +65,16 @@ Cost | Skill | Roll
 3 | Conversation | 12-
 3 | Interrogation | 12-
 5 | KS: Goa'uld System Lords | 14-
-4 | Language: Goa'uld &mdash; fluent, literacy | &mdash;
-4 | Language: Common &mdash; fluent, literacy | &mdash;
+5 | KS: Goa'uld history 14-
+7 | KS: Goa'uld technology 16-
+0 | Language: Goa'uld &mdash; fluent, literacy | &mdash;
+4 | Language: Modern English &mdash; fluent, literacy | &mdash;
 3 | Oratory | 12-
-5 | PS: Goa'uld System Lord | 14-
-7 | SS: Goa'uld technology | 16-
+5 | PS: Goa'uld System Lord (PRE roll) | 14-
 2 | TF: Goa'uld Spaceships | &mdash;
 2 | WF: Common Goa'uld weaponry | &mdash;
 
-**Total Skills Cost:** 68
+**Total Skills Cost:** 69
 
 ## Complications
 
@@ -90,9 +91,8 @@ Section | Cost
 Characteristics | 137
 Movement        | 0
 Powers          | 22
-Skills          | 68
+Skills          | 69
 Complications   | -25
-**Total**       | 202
+**Total**       | 203
 
 ## Equipment
-
