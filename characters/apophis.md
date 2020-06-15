@@ -36,7 +36,7 @@ Leaping  | 4m | 0
 
 **Total Movement Cost:** 0
 
-## Powers and Equipment
+## Powers
 
 Cost | Description
 ----:|:-----------
@@ -93,3 +93,6 @@ Powers          | 22
 Skills          | 66
 Complications   | -25
 **Total**       | 200
+
+## Equipment
+
