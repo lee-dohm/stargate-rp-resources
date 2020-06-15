@@ -49,8 +49,6 @@ Cost | Description
 
 **Total Powers Cost:** 22
 
-## Talents
-
 ## Skills
 
 Cost | Skill | Roll
