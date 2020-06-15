@@ -71,9 +71,9 @@ Cost | Skill | Roll
 5 | PS: Goa'uld System Lord | 14-
 5 | SS: Goa'uld technology | 14-
 2 | TF: Goa'uld Spaceships | &mdash;
-1 | WF: Goa'uld Hand Device | &mdash;
+2 | WF: Common Goa'uld weaponry | &mdash;
 
-**Total Skills Cost:** 65
+**Total Skills Cost:** 66
 
 ## Complications
 
@@ -90,6 +90,6 @@ Section | Cost
 Characteristics | 137
 Movement        | 0
 Powers          | 22
-Skills          | 65
+Skills          | 66
 Complications   | -25
-**Total**       | 199
+**Total**       | 200
