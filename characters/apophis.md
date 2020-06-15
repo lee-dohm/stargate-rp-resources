@@ -53,6 +53,28 @@ Cost | Description
 
 ## Skills
 
+Cost | Skill | Roll
+----:|-------|-----
+3 | Acting | 12-
+5 | AK: Goa'uld worlds | 14-
+6 | Bribery | 15-
+7 | Bureaucratics | 16-
+3 | Charm | 12-
+3 | Combat Piloting | 13-
+3 | Computer Programming | 12-
+3 | Conversation | 12-
+3 | Interrogation | 12-
+5 | KS: Goa'uld System Lords | 14-
+4 | Language: Goa'uld &mdash; fluent, literacy | &mdash;
+4 | Language: Common &mdash; fluent, literacy | &mdash;
+3 | Oratory | 12-
+5 | PS: Goa'uld System Lord | 14-
+5 | SS: Goa'uld technology | 14-
+2 | TF: Goa'uld Spaceships | &mdash;
+1 | WF: Goa'uld Hand Device | &mdash;
+
+**Total Skills Cost:** 65
+
 ## Complications
 
 Value | Complication
@@ -68,5 +90,6 @@ Section | Cost
 Characteristics | 137
 Movement        | 0
 Powers          | 22
+Skills          | 65
 Complications   | -25
-**Total**       | 134
+**Total**       | 199
