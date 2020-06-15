@@ -5,7 +5,7 @@ Egyptian god of the night that was the rival to Ra and became the leader of the 
 ## Characteristics
 
 Val | Char | Points | Roll
----:|:----:|-------:|:----
+---:|------|-------:|-----
 20 | STR | 10 | 13-
 18 | DEX | 16 | 13-
 15 | CON | 5 | 12-
