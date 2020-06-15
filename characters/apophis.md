@@ -64,9 +64,9 @@ Cost | Skill | Roll
 3 | Computer Programming | 12-
 3 | Conversation | 12-
 3 | Interrogation | 12-
+5 | KS: Goa'uld history | 14-
 5 | KS: Goa'uld System Lords | 14-
-5 | KS: Goa'uld history 14-
-7 | KS: Goa'uld technology 16-
+7 | KS: Goa'uld technology | 16-
 0 | Language: Goa'uld &mdash; fluent, literacy | &mdash;
 4 | Language: Modern English &mdash; fluent, literacy | &mdash;
 3 | Oratory | 12-
