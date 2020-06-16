@@ -1,8 +1,16 @@
 # Human Equipment
 
-## GDO
+## Communications
+
+### GDO
 
 The GDO (or Garage Door Opener) is the device that each SGC team member is given to identify themselves when dialing home so that the SGC knows to open the protective iris in front of the gate at the SGC.
+
+### Radio Headsets
+
+Encrypted radio communications gear (_see_ HSEG 302) allows for remote communications between team members and with the SGC when the Stargate is active, so long as one is within range.
+
+**Radio Handset with Encryption System:** Radio Perception/Transmission (Radio Group) (10 Active Points); OAF (-1), Affected As Hearing Group As Well As Radio Group (-1⁄4), 1 Continuing Fuel Charge (battery, Easy to obtain; 6 Hours; -0) (total cost: 4 points) **plus** Cryptography 20- (25 Active Points); OAF (-1), Only To Encrypt/Decrypt Its Own Transmissions (-1), 1 Continuing Fuel Charge (battery, Easy to obtain; 6 Hours; -0) (total cost: 8 points). Total cost: 12 points.
 
 ## Weapons
 
@@ -25,4 +33,3 @@ The standard human technology sidearm of the SGC, _see_ HSEG 72. M9 is the milit
 The standard human technology primary weapon of the SGC, _see_ HSEG 74.
 
 **H&K MP5:** 1d6+1 RKA, 30 shots, STR Min 12, 2.60kg mass, 200m range, AF5 &mdash; **Active Cost:** 37, **Real Cost:** 13
-
