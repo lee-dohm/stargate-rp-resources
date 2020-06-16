@@ -12,6 +12,7 @@ Val | Char | Points | Roll
 10 | INT  | 0 | 11-
 10 | EGO  | 0 | 11-
 10 | PRE  | 0 | 11-
+   |      |   |
 4  | OCV  | 5 | &mdash;
 4  | DCV  | 5 | &mdash;
 5  | OMCV | 6 | &mdash;
@@ -19,6 +20,7 @@ Val | Char | Points | Roll
 3  | SPD  | 10 | &mdash;
 2  | PD   | 0 | &mdash;
 2  | ED   | 0 | &mdash;
+   |      |   |
 4  | REC  | 0 | &mdash;
 10 | END  | -2 | &mdash;
 3 | BODY | -7 | &mdash;
@@ -45,8 +47,10 @@ Cost | Description | END
 2 | **Not Much Appetite:** Life Support (Diminished Eating: only needs to eat once every few months) | 0
 6 | **Serpent's Tongue:** +3 PER with Smell/Taste Group | 0
 3 | **Sense Naquadah:** Detect Naquadah (PER roll) | 0
+&mdash; | **Size: Tiny** |
 30 | **Hard to Hit:** +6 DCV | 0
 12 | **Hard to Perceive:** +6 to Stealth | 0
+&mdash; | &mdash; |
 127 | **Goa'uld Possession:** Severe Mental Transform (independent sapient being into possessed host) 5d6 &mdash; heals completely when symbiote leaves the body or dies, AVAD Mental Defense (+0), Works against EGO (+0.25), Reduced END (0 END; +0.5) &mdash; **Active Cost:** 131; Limited Target (sapient beings -0.25), Unified Power (-0.25) &mdash; **Real Cost:** 87 **plus** Desolidification, Projection (+0), Merging (+0), Reduced Endurance (0 END; +0.5), Persistent (+0.25) &mdash; **Active Cost:** 70; Linked (-0.5), Unified Power (-0.25) &mdash; **Real Cost:** 40 | 0
 
 **Total Powers Cost:** 186

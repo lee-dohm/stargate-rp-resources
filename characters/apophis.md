@@ -12,6 +12,7 @@ Val | Char | Points | Roll
 15 | INT | 5 | 12-
 18 | EGO | 8 | 13-
 15 | PRE | 5 | 12-
+   |      |   |
 5 | OCV | 10 | &mdash;
 5 | DCV | 10 | &mdash;
 5 | OMCV | 6 | &mdash;
@@ -19,6 +20,7 @@ Val | Char | Points | Roll
 4 | SPD | 20 | &mdash;
 10 | PD | 8 | &mdash;
 10 | ED | 8 | &mdash;
+   |      |   |
 10 | REC | 6 | &mdash;
 40 | END | 4 | &mdash;
 15 | BODY | 5 | &mdash;
