@@ -67,7 +67,7 @@ All Goa'uld weapons have the following modifiers:
 * **STR Minimum** _see_ 6E2 199
 * **Beam** _see_ 6E1 145
 
-Because of the advanced nature of Goa'uld technology, these weapons do not suffer the **Real Weapon** or **Charges** limitations that corresponding [human weaponry](#human-weapons) does.
+Because of the advanced nature of Goa'uld technology, these weapons do not suffer the **Real Weapon** or **Charges** limitations that corresponding [human weaponry](human-equipment.md#weapons) does.
 
 #### Staff Weapon
 
