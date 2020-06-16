@@ -48,7 +48,7 @@ Cost | Description | END
 6 | **Serpent's Tongue:** +3 PER with Smell/Taste Group | 0
 3 | **Sense Naquadah:** Detect Naquadah (PER roll) | 0
 |  |
-  | **Size: Tiny** |
+&nbsp; | **Size: Tiny** |
 30 | **Hard to Hit:** +6 DCV | 0
 12 | **Hard to Perceive:** +6 to Stealth | 0
    |  |
