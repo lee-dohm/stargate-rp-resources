@@ -7,6 +7,7 @@ This is a collection of [Stargate][wiki] roleplaying resources for the [HERO Sys
 ## Sections
 
 * [Alien Technology](alien-technology.md)
+* [Creatures](creatures/README.md)
 * [Human Equipment](human-equipment.md)
 * [Notes](notes.md)
 * [People](people.md)
