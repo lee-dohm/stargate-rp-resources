@@ -22,7 +22,7 @@ A parasitic race of aquatic snake-like beings that inhabit hosts, most often hum
 
 ## Humans
 
-The species of sapient humanoid indigenous to Earth. The term _Tau'ri_ specifically refers to the humans of Earth.
+The species of sapient humanoid indigenous to Earth. Despite being indigenous to Earth, humans are present on a great many worlds throughout the galaxy because of the intervention of the Goa'uld. The term _Tau'ri_ specifically refers to the humans of Earth.
 
 ### Everyman Skills
 
