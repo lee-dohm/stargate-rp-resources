@@ -38,14 +38,14 @@ Leaping  | 4m | 0
 
 ## Powers
 
-Cost | Description
-----:|:-----------
-3 | **Detect** Goa'uld Symbiote (PER roll)
-&nbsp; | _Goa'uld Regeneration_
-5  | **Life Support:** Immortal
-5  | **Life Support:** Immunity to all terrestrial diseases
-5  | **Life Support:** Immunity to all terrestrial poisons
-4  | **Regeneration** 1xREC in BODY per Day
+Cost | Description | END
+----:|:------------|---:
+3 | **Detect** Goa'uld Symbiote (PER roll) | 0
+&nbsp; | _Goa'uld Regeneration_ | &mdash;
+5  | **Life Support:** Immortal | 0
+5  | **Life Support:** Immunity to all terrestrial diseases | 0
+5  | **Life Support:** Immunity to all terrestrial poisons | 0
+4  | **Regeneration** 1xREC in BODY per Day | 0
 
 **Total Powers Cost:** 22
 

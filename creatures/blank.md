@@ -1,6 +1,6 @@
-# Character Name
+# Creature Name
 
-<!-- Character biography -->
+<!-- Description -->
 
 ## Characteristics
 
@@ -43,15 +43,6 @@ Cost | Description | END
 
 **Total Powers Cost:** 0
 
-## Talents
-
-## Skills
-
-Cost | Skill | Roll
-----:|-------|-----
-
-**Total Skills Cost:** 0
-
 ## Complications
 
 Value | Complication
@@ -66,8 +57,5 @@ Section | Cost
 Characteristics | 0
 Movement        | 0
 Powers          | 0
-Skills          | 0
 Complications   | 0
 **Total**       | 0
-
-## Equipment
