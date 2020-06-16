@@ -47,10 +47,11 @@ Cost | Description | END
 2 | **Not Much Appetite:** Life Support (Diminished Eating: only needs to eat once every few months) | 0
 6 | **Serpent's Tongue:** +3 PER with Smell/Taste Group | 0
 3 | **Sense Naquadah:** Detect Naquadah (PER roll) | 0
-&mdash; | **Size: Tiny** |
+|  |
+  | **Size: Tiny** |
 30 | **Hard to Hit:** +6 DCV | 0
 12 | **Hard to Perceive:** +6 to Stealth | 0
-&mdash; | &mdash; |
+   |  |
 127 | **Goa'uld Possession:** Severe Mental Transform (independent sapient being into possessed host) 5d6 &mdash; heals completely when symbiote leaves the body or dies, AVAD Mental Defense (+0), Works against EGO (+0.25), Reduced END (0 END; +0.5) &mdash; **Active Cost:** 131; Limited Target (sapient beings -0.25), Unified Power (-0.25) &mdash; **Real Cost:** 87 **plus** Desolidification, Projection (+0), Merging (+0), Reduced Endurance (0 END; +0.5), Persistent (+0.25) &mdash; **Active Cost:** 70; Linked (-0.5), Unified Power (-0.25) &mdash; **Real Cost:** 40 | 0
 
 **Total Powers Cost:** 186
@@ -68,4 +69,4 @@ Value | Complication
 ## Notes
 
 * Based on Venomous Snakes (_see_ HSB 484)
-* Possession based on the same ability from various in Bestiary (_see_ HSB 282)
+* Possession based on the same ability from various in HSB (as an example _see_ HSB 282) except where the ability in HSB is designed as a _Constant_ power (_see_ 6E1 127), the nature of Goa'uld possession is intended to be more permanent. Because of this, Goa'uld possession is designed as a _Persistent_ power (_see_ 6E1 128).
