@@ -20,7 +20,7 @@ Cost | Ability
 4 | Language: Modern English &mdash; fluent, literacy
 2 | TF: Goa'uld spaceships
 2 | WF: Common Goa'uld weapons
-3  | Detect: Goa'uld symbiote (PER roll)
+3 | **Sense Naquadah:** Detect Naquadah (PER roll) | 0
 &mdash; | _Goa'uld Regeneration_
 5  | Life Support: Immortal
 5  | Life Support: Immunity to all terrestrial diseases

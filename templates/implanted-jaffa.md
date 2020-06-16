@@ -10,11 +10,11 @@ Cost | Ability
 6 | +3 DEX
 3 | +3 CON
 4 | +4 REC
-3 | Detect Goa'uld Symbiote (PER roll)
-&nbsp; | _Goa'uld Regeneration_
-1 | **Life Support:** Longevity 2x lifespan
-5 | **Life Support:** Immunity to all terrestrial diseases
-5 | **Life Support:** Immunity to all terrestrial poisons
+3 | **Sense Naquadah:** Detect Naquadah (PER roll) | 0
+&nbsp; | **Goa'uld Regeneration**
+1 | Life Support: Longevity 2x lifespan
+5 | Life Support: Immunity to all terrestrial diseases
+5 | Life Support: Immunity to all terrestrial poisons
 4 | Regeneration 1xREC in BODY per Day
 
 **Complications**

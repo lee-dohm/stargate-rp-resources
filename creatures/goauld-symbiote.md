@@ -44,27 +44,22 @@ Cost | Description | END
 1 | **Scaly Skin:** Resistant for 1 PD and 1 ED | 0
 2 | **Not Much Appetite:** Life Support (Diminished Eating: only needs to eat once every few months) | 0
 6 | **Serpent's Tongue:** +3 PER with Smell/Taste Group | 0
-3 | Detect Goa'uld Symbiote (PER roll) | 0
-x | **Goa'uld Possession:** Severe Transform (independent human into possessed host) **plus** Desolidification, Projection (+0), Merging (+0), Reduced Endurance (0 END; +0.5), Persistent (+0.25); Linked (-0.5), Unified Power (-0.25) | 0
+3 | **Sense Naquadah:** Detect Naquadah (PER roll) | 0
+30 | **Hard to Hit:** +6 DCV | 0
+12 | **Hard to Perceive:** +6 to Stealth | 0
+127 | **Goa'uld Possession:** Severe Mental Transform (independent sapient being into possessed host) 5d6 &mdash; heals completely when symbiote leaves the body or dies, AVAD Mental Defense (+0), Works against EGO (+0.25), Reduced END (0 END; +0.5) &mdash; **Active Cost:** 131; Limited Target (sapient beings -0.25), Unified Power (-0.25) &mdash; **Real Cost:** 87 **plus** Desolidification, Projection (+0), Merging (+0), Reduced Endurance (0 END; +0.5), Persistent (+0.25) &mdash; **Active Cost:** 70; Linked (-0.5), Unified Power (-0.25) &mdash; **Real Cost:** 40 | 0
 
-**Total Powers Cost:** 0
+**Total Powers Cost:** 186
 
 ## Complications
 
 Value | Complication
 -----:|-------------
+20 | **Physical Complication:** Cold-Blooded (Frequently, Greatly Impairing)
+20 | **Physical Complication:** Poor Eyesight, suffers -2 to all Sight PER Rolls (Frequently, Greatly Impairing)
+20 | **Physical Complication:** Very Limited Manipulation (Frequently, Greatly Impairing)
 
-**Total Complications Value:** 0
-
-## Totals
-
-Section | Cost
-:-------|----:
-Characteristics | 12
-Movement        | -1
-Powers          | 0
-Complications   | 0
-**Total**       | 0
+**Total Complications Value:** 60
 
 ## Notes
 
