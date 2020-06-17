@@ -95,9 +95,9 @@ While all of the technology so far has been utilized or provided by the [Goa'uld
 All Goa'uld wear a hand device at virtually all times. It serves as an interface to other Goa'uld technology, a weapon, a shield, and probably other functions. Fortunately, the hand device can only serve one function at a time.
 
 * **Goa'uld Hand Device:** Multipower, 60-point reserve; all slots OIF (-1/2), all slots Fixed
-* 1) **Force Field:** Resistant Protection (16 PD/16 ED) (Protect Carried Items); OIF (-1/2), Nonpersistent (-1/4)
-* 2) **Brain Melty Thing:** Hand-To-Hand Attack +3d6, Reduced Endurance (0 END; +1/2), Does BODY (+1), Attack Versus Alternate Defense (Mental Defense; +1 1/2); OIF (-1/2), Hand-To-Hand Attack (-1/4)
-* 3) **Force Blast:** Blast 8d6, Reduced Endurance (0 END; +1/2); OIF (-1/2)
+* 1\) **Force Field:** Resistant Protection (16 PD/16 ED) (Protect Carried Items); OIF (-1/2), Nonpersistent (-1/4)
+* 2\) **Brain Melty Thing:** Hand-To-Hand Attack +3d6, Reduced Endurance (0 END; +1/2), Does BODY (+1), Attack Versus Alternate Defense (Mental Defense; +1 1/2); OIF (-1/2), Hand-To-Hand Attack (-1/4)
+* 3\) **Force Blast:** Blast 8d6, Reduced Endurance (0 END; +1/2); OIF (-1/2)
 
 ### Healing Device
 
