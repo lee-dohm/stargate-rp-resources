@@ -9,7 +9,7 @@ Some of this may differ slightly from the television shows or other canonical so
 * A stargate has 39 symbols on it: 38 common to all gates and one that is unique representing that specific gate
 * A gate address consists of seven symbols
 * The first six symbols represent the destination
-* The seventh symbol represents the point of origin, where one is dialing from, which is always the unique symbol for that gate
+* The seventh symbol represents the point of origin, where one is dialing from, which is always the unique symbol for that gate (even though this rule is not held to in the television show &mdash; see below)
 * Each symbol represents a fixed point in space
 * The destination is described as three intersecting lines in space
 * Each line is described by two symbols
