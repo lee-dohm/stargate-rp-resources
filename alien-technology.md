@@ -23,13 +23,17 @@ Stargates, also called _chaapa'ai_ in the language of the natives kidnapped by t
 
 For the details on gate addresses and their possible combinations, see [Gate Addresses](stargate-addresses.md).
 
-**Stargate:** Teleportation 100m with 32x Extra Mass 125pts; MegaScale (1,000ly scale) +5, AoE 4m radius +0.25, Constant +0.5, Usable by Others +0.25; Gate -0.5 (_see:_ 6E1 301), OIF (Stargate and DHD), Immovable, Extremely Difficult to Obtain -2.5 &mdash; **Active Cost:** 875, **Real Cost:** 219
+Activating a gate is a complex process that is made accessible by a dialing computer or DHD (Dial Home Device) in the field. Activating a gate manually by physically moving the inner ring is laborious. Dialing a gate address in this manner takes at least five minutes if it can be done at all. Additionally, it is a very energy-intensive process. The gate has to be charged with energy before it will activate. Fortunately, DHDs have a self-regenerating power source within them sufficient to power a gate for millennia of use.
+
+**Stargate:** Teleportation 100m, x32 Increased Mass; Area Of Effect (4m Radius; +1/4\*), Usable By Other (+1/4), Constant (+1/2), MegaScale (1m = 1,000 lightyears; +5) (875 Active Points); OAF Immobile (-2), Extra Time (1 Turn (Post-Segment 12), -1 1/4), Gate (6E1 301; -1/2), Can only travel to other Stargates (-1/2) (Real Cost: 167) **plus** END Reserve (87 END, 0 REC) (Real Cost: 22) &mdash; **Active Cost:** 897, **Real Cost:** 189
+
+**DHD:** END Reserve (87 END, 87 REC) Reserve: (80 Active Points); OAF Bulky (-1 1/2) &mdash; **Active Cost:** 80, **Real Cost:** 67
 
 ### Transport Rings
 
 Transport rings are a short-range version of the stargate technology. Their range is enough to go from a planet's surface into orbit or from one starship to another in relative proximity.
 
-**Transport Rings:** Teleportation 100m with 8x Extra Mass 115pts; MegaScale (1,000km scale) +1.75, AoE 2m radius +0.25, Usable by Others +0.25; Gate -0.5 (_see:_ 6E1 301), OIF (Transport rings), Immovable, Difficult to Obtain -2 &mdash; **Active Cost:** 431, **Real Cost:** 123
+**Transport Rings:** Teleportation 100m, x8 Increased Mass; Area Of Effect (2m Radius; +1/4\*), Usable By Other (+1/4), Constant (+1/2), MegaScale (1m = 1,000 km; +1 3/4); OIF Immobile (-1 1/2), Gate (-1/2) &mdash; **Active Cost:** 431, **Real Cost:** 144
 
 ## Starships
 
