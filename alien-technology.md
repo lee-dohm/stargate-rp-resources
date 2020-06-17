@@ -21,7 +21,7 @@ Stargates, also called _chaapa'ai_ in the language of the natives kidnapped by t
 
 > **Note:** This bi-directional flow of energy allows for communications to flow both ways no matter who initiates the stargate connection.
 
-A gate has 39 symbols on it. A gate address is made up of 6 symbols for the destination portion. Given that the order doesn't matter and you can't choose the same symbol twice in the same address, this means there are 3,262,623 combinations or possible addresses in the Milky Way gate system.
+For the details on gate addresses and their possible combinations, see [Gate Addresses](stargate-addresses.md).
 
 **Stargate:** Teleportation 100m with 32x Extra Mass 125pts; MegaScale (1,000ly scale) +5, AoE 4m radius +0.25, Constant +0.5, Usable by Others +0.25; Gate -0.5 (_see:_ 6E1 301), OIF (Stargate and DHD), Immovable, Extremely Difficult to Obtain -2.5 &mdash; **Active Cost:** 875, **Real Cost:** 219
 
