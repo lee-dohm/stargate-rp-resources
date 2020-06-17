@@ -38,6 +38,6 @@ Despite the fact that [all gate addresses seen in the show](http://www.rdanderso
 * Any address containing two `A` symbols anywhere in the address is effectively the same address as `AAAAAAZ`
 * **Therefore:** all symbols in a gate address must be unique
 
-Interestingly, the TV show has a couple instances where the point of origin used is one of the symbols that is common to all gates and **not** a symbol that is unique to that one gate. In those cases, a gate address of `AAAAAAZ` would make sense because you're going to a gate _at_ that symbol's point in space.
+Interestingly, the TV show has a couple instances where the point of origin used is one of the symbols that is common to all gates and **not** a symbol that is unique to that one gate. If the point of origin is the point in space of one of the gate symbols `S`, then that gate's address would be `SSSSSSZ` or an equivalent. (But why bother memorizing six symbols when you only have to remember one?)
 
 If we choose to allow for gates at reference points like this, then that only adds 38 gate addresses to our list of possible combinations above. Therefore, the number of possible gate addresses is 703 \* 630 \* 561 + 38 or 248,461,328 possible gate addresses.
