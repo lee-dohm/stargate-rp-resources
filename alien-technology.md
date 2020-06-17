@@ -77,10 +77,10 @@ Because of the advanced nature of Goa'uld technology, these weapons do not suffe
 
 The Goa'uld staff weapon is the preferred weapon of Jaffa warriors. It uses a liquid naquadah power source and fires an energy blast, the power of which is variable depending on factors such as the time allowed for recycling between shots. It is a weapon of great power and endurance, but less accurate than Earth weapons.
 
-**Staff Weapon:**
+**Staff Weapon:** 3d6 RKA, Two-Handed, STR Min 13, -1 RMod, +1 STUN Multiplier, 4 shots per Turn (due to liquid naquadah battery)
 
-* 2d6 RKA, STR Min 12, -1 RMod, 4 shots per Turn (due to liquid naquadah battery)
-* _Liquid Naquadah Battery_ &mdash; 12 END 12 REC Reserve
+* RKA 3d6; +1 Increased STUN Multiplier (+1/4); STR Minimum 13 (STR Min. Cannot Add/Subtract Damage; -1), OAF (-1), Required Hands Two-Handed (-1/2), -1 Range Modifier, Side Effect occurs automatically whenever Power is used (-1/2), Beam (-1/4) &mdash; **Active Cost:** 56, **Real Cost:** 13
+* **Liquid Naquadah Battery:** END Reserve (24 END, 24 REC); OAF (-1) &mdash; **Active Cost:** 22, **Real Cost:** 11
 
 #### Tok'Kal Grenade
 
@@ -92,7 +92,12 @@ While all of the technology so far has been utilized or provided by the [Goa'uld
 
 ### Hand Device
 
-All Goa'uld wear a hand device at virtually all times. It serves as an interface to other Goa'uld technology, a weapon, a shield, and probably other functions.
+All Goa'uld wear a hand device at virtually all times. It serves as an interface to other Goa'uld technology, a weapon, a shield, and probably other functions. Fortunately, the hand device can only serve one function at a time.
+
+* **Goa'uld Hand Device:** Multipower, 60-point reserve; all slots OIF (-1/2), all slots Fixed
+* 1) **Force Field:** Resistant Protection (16 PD/16 ED) (Protect Carried Items); OIF (-1/2), Nonpersistent (-1/4)
+* 2) **Brain Melty Thing:** Hand-To-Hand Attack +3d6, Reduced Endurance (0 END; +1/2), Does BODY (+1), Attack Versus Alternate Defense (Mental Defense; +1 1/2); OIF (-1/2), Hand-To-Hand Attack (-1/4)
+* 3) **Force Blast:** Blast 8d6, Reduced Endurance (0 END; +1/2); OIF (-1/2)
 
 ### Healing Device
 
