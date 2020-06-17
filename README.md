@@ -11,6 +11,7 @@ This is a collection of [Stargate][wiki] roleplaying resources for the [HERO Sys
 * [Human Equipment](human-equipment.md)
 * [Notes](notes.md)
 * [People](people.md)
+* [Terminology](terminology.md)
 
 ## References
 

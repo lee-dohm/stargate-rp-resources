@@ -27,7 +27,7 @@ Activating a gate is a complex process that is made accessible by a dialing comp
 
 **Stargate:** Teleportation 100m, x32 Increased Mass; Area Of Effect (4m Radius; +1/4\*), Usable By Other (+1/4), Constant (+1/2), MegaScale (1m = 1,000 lightyears; +5) (875 Active Points); OAF Immobile (-2), Extra Time (1 Turn (Post-Segment 12), -1 1/4), Gate (6E1 301; -1/2), Can only travel to other Stargates (-1/2) (Real Cost: 167) **plus** END Reserve (87 END, 0 REC) (Real Cost: 22) &mdash; **Active Cost:** 897, **Real Cost:** 189
 
-**DHD:** END Reserve (87 END, 87 REC) Reserve: (80 Active Points); OAF Bulky (-1 1/2) &mdash; **Active Cost:** 80, **Real Cost:** 67
+**DHD:** END Reserve (87 END, 87 REC); OAF Bulky (-1 1/2) &mdash; **Active Cost:** 80, **Real Cost:** 67
 
 ### Transport Rings
 
