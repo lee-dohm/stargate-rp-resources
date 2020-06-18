@@ -22,14 +22,30 @@ All human weapons have the following modifiers:
 * **Real Weapon** _see_ 6E2 200-201, which also makes them susceptible to firearms malfunction rules, _see_ 6E2 207
 * **Charges** _see_ 6E1 367
 
+### Heavy Weapons
+
+**USAS 12:**
+
+**M60 E3:**
+
+**M249 SAW:**
+
+**SPAS 12:**
+
 ### Sidearm
 
 The standard human technology sidearm of the SGC, _see_ HSEG 72. M9 is the military designation for the civilian Beretta 92FS.
 
 **Beretta 92FS/M9:** 1d6+1 RKA, 15 shots, STR Min 9, 1kg mass, 200m range &mdash; **Active Cost:** 20, **Real Cost:** 7
 
+### Sniper Rifle
+
+**H&K SL8:**
+
 ### Submachinegun
 
 The standard human technology primary weapon of the SGC, _see_ HSEG 74.
 
 **H&K MP5:** 1d6+1 RKA, 30 shots, STR Min 12, 2.60kg mass, 200m range, AF5 &mdash; **Active Cost:** 37, **Real Cost:** 13
+
+**P90:**
