@@ -24,13 +24,13 @@ All human weapons have the following modifiers:
 
 ### Heavy Weapons
 
-**USAS 12:**
+**M249 SAW:**
 
 **M60 E3:**
 
-**M249 SAW:**
-
 **SPAS 12:**
+
+**USAS 12:**
 
 ### Sidearm
 
@@ -40,7 +40,9 @@ The standard human technology sidearm of the SGC, _see_ HSEG 72. M9 is the milit
 
 ### Sniper Rifle
 
-**H&K SL8:**
+The standard human technology sniper rifle of the SGC, _see_ HSEG 78.
+
+**H&K G3:** 2d6+1 RKA, +1 OCV, +3 RMod, +1 STUNx, 30 shots, STR Min 15, 4.25kg mass, 350m range, 2H AF5; **Active Cost:** 75, **Real Cost:** 23
 
 ### Submachinegun
 
