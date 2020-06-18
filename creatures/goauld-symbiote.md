@@ -52,7 +52,7 @@ Cost | Description | END
 30 | **Hard to Hit:** +6 DCV | 0
 12 | **Hard to Perceive:** +6 to Stealth | 0
    |  |
-127 | **Goa'uld Possession:** Severe Mental Transform (independent sapient being into possessed host) 5d6 &mdash; heals completely when symbiote leaves the body or dies, AVAD Mental Defense (+0), Works against EGO (+0.25), Reduced END (0 END; +0.5) &mdash; **Active Cost:** 131; Limited Target (sapient beings -0.25), Unified Power (-0.25) &mdash; **Real Cost:** 87 **plus** Desolidification, Projection (+0), Merging (+0), Reduced Endurance (0 END; +0.5), Persistent (+0.25) &mdash; **Active Cost:** 70; Linked (-0.5), Unified Power (-0.25) &mdash; **Real Cost:** 40 | 0
+127 | **Goa'uld Possession:** Severe Mental Transform (independent sapient being into possessed host) 5d6 &mdash; heals completely when symbiote leaves the body or dies, AVAD Mental Defense (+0), Works against EGO (+1/4), Reduced END (0 END; +1/2) &mdash; **Active Cost:** 131; Limited Target (sapient beings -1/4), Unified Power (-1/4) &mdash; **Real Cost:** 87 **plus** Desolidification, Projection (+0), Merging (+0), Reduced Endurance (0 END; +1/2), Persistent (+1/4) &mdash; **Active Cost:** 70; Linked (-1/2), Unified Power (-1/4) &mdash; **Real Cost:** 40 | 0
 
 **Total Powers Cost:** 186
 
