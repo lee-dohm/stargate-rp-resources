@@ -24,17 +24,21 @@ All human weapons have the following modifiers:
 
 ### Heavy Weapons
 
-**M249 SAW:**
+Light machine gun, _see_ HSEG 77.
 
-**M60 E3:**
+**M249 SAW:** 2d6 RKA, +1 OCV, +1 RMod, +1 STUNx, 200 shots, STR Min 15, 6.85kg mass, 300m range, AF10, Bulky &mdash; **Active Cost:** 100, **Real Cost:** 28
 
-Standard shotgun.
+Medium machine gun, _see_ HSEG 77.
 
-**SPAS 12:** 2 1/2d6 RKA, +1 STUNx, 8 shots, STR Min 12, 4.35kg mass, 40m range, 2H, AE1, LR(40m), RR, RP &mdash;`**Active Cost:** 60, **Real Cost:** 13
+**M60 E3:** 2d6+1 RKA, +1 OCV, +2 RMod, +1 STUNx, 250 shots, STR Min 16, 8.60kg mass, 350m range, AF10, Bulky, FS &mdash; **Active Cost:** 154, **Real Cost:** 46
 
-Automatic shotgun.
+Standard shotgun, _see_ HSEG 80.
 
-**USAS 12:**
+**Franchi SPAS 12:** 2 1/2d6 RKA, +1 STUNx, 8 shots, STR Min 12, 4.35kg mass, 40m range, 2H, AE1, LR(40m), RR, RP &mdash;`**Active Cost:** 60, **Real Cost:** 13
+
+Automatic shotgun, _see_ HSEG 80.
+
+**Daewoo USAS 12:** 2 1/2d6 RKA, +1 STUNx, 28 shots, STR Min 13, 5.50kg mass, 100m range, 2H, AF5, Beam, LR(100m) &mdash; **Active Cost:** 80, **Real Cost:** 21
 
 ### Sidearm
 
