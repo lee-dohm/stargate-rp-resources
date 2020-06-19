@@ -28,7 +28,11 @@ All human weapons have the following modifiers:
 
 **M60 E3:**
 
-**SPAS 12:**
+Standard shotgun.
+
+**SPAS 12:** 2 1/2d6 RKA, +1 STUNx, 8 shots, STR Min 12, 4.35kg mass, 40m range, 2H, AE1, LR(40m), RR, RP &mdash;`**Active Cost:** 60, **Real Cost:** 13
+
+Automatic shotgun.
 
 **USAS 12:**
 
