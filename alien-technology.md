@@ -10,7 +10,7 @@ Control crystals are crystals designed to regulate various functions in advanced
 
 * **Raw Naquadah** &mdash; Unprocessed naquadah that must be purified to be used
 * **Refined Naquadah** &mdash; Basic usable naquadah
-* **Liquid Naquadah** &mdash; Liquified naquadah used in some smaller cells mostly to power weapons such as the [Ma'Tok Staff](#matok-staff)
+* **Liquid Naquadah** &mdash; Liquified naquadah used in some smaller cells mostly to power weapons such as the [Staff Weapon](#staff-weapon)
 * **Heavy Liquid Naquadah** &mdash; Concentrated liquid naquadah used in larger weapons
 * **Weapons-grade Naquadah** &mdash; Naquadah in its purest form
 * **Naquadria** &mdash; A radioactive form of naquadah that can be used as an enormous power source but is highly unstable
@@ -77,10 +77,10 @@ Because of the advanced nature of Goa'uld technology, these weapons do not suffe
 
 The Goa'uld staff weapon is the preferred weapon of Jaffa warriors. It uses a liquid naquadah power source and fires an energy blast, the power of which is variable depending on factors such as the time allowed for recycling between shots. It is a weapon of great power and endurance, but less accurate than Earth weapons.
 
-**Staff Weapon:** 3d6 RKA, Two-Handed, STR Min 13, -1 RMod, +1 STUN Multiplier, 4 shots per Turn (due to liquid naquadah battery)
+**Staff Weapon:** 3d6 RKA, +1 STUNx, Two-Handed, STR Min 13, -1 RMod, Limited Range (60m), 4 shots per Turn (due to liquid naquadah battery)
 
-* RKA 3d6; +1 Increased STUN Multiplier (+1/4); STR Minimum 13 (STR Min. Cannot Add/Subtract Damage; -1), OAF (-1), Required Hands Two-Handed (-1/2), -1 Range Modifier, Side Effect occurs automatically whenever Power is used (-1/2), Beam (-1/4) &mdash; **Active Cost:** 56, **Real Cost:** 13
-* **Liquid Naquadah Battery:** END Reserve (24 END, 24 REC); OAF (-1) &mdash; **Active Cost:** 22, **Real Cost:** 11
+* RKA 3d6; +1 Increased STUN Multiplier (+1/4); Beam (-1/4), OAF (-1), Limited Range 60m (-1/4), Required Hands 2H (-1/2), STR Min 13 (Cannot Add/Subtract Damage; -1), -1 Range Mod, Side Effect occurs automatically whenever Power is used (-1/2) &mdash; **Active Cost:** 56, **Real Cost:** 12
+* **Liquid Naquadah Battery:** END Reserve (24 END, 24 REC); OAF (-1), Linked to RKA (-1/4) &mdash; **Active Cost:** 22, **Real Cost:** 10
 
 #### Tok'Kal Grenade
 
