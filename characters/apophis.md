@@ -42,7 +42,7 @@ Leaping  | 4m | 0
 
 Cost | Description | END
 ----:|:------------|---:
-3 | **Sense Naquadah:** Detect Naquadah (PER roll) | 0
+3 | **Sense Symbiote:** Detect Goa'uld Symbiote (PER roll) | 0
 &nbsp; | _Goa'uld Regeneration_ | &mdash;
 5  | **Life Support:** Immortal | 0
 5  | **Life Support:** Immunity to all terrestrial diseases | 0

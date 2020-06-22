@@ -46,7 +46,7 @@ Cost | Description | END
 1 | **Scaly Skin:** Resistant for 1 PD and 1 ED | 0
 2 | **Not Much Appetite:** Life Support (Diminished Eating: only needs to eat once every few months) | 0
 6 | **Serpent's Tongue:** +3 PER with Smell/Taste Group | 0
-3 | **Sense Naquadah:** Detect Naquadah (PER roll) | 0
+3 | **Sense Symbiote:** Detect Goa'uld Symbiote (PER roll) | 0
 |  |
 &nbsp; | **Size: Tiny** |
 30 | **Hard to Hit:** +6 DCV | 0
