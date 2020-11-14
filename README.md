@@ -13,11 +13,13 @@ This is a collection of [Stargate][wiki] roleplaying resources for the [HERO Sys
 * [People](people.md)
 * [Terminology](terminology.md)
 
-## References
+## Resources
 
+* [Model Stargate Project][model]
 * [Stargate Lexicon][lexicon]
 * [Stargate Wiki][wiki]
 
 [lexicon]: http://www.rdanderson.com/stargate/lexicon/index.htm
+[model]: https://thestargateproject.com
 [star-hero]: https://www.herogames.com/store/category/11-star-hero/
 [wiki]: http://stargate.wikia.com/wiki/Stargate_Wiki
