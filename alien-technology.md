@@ -73,7 +73,13 @@ All Goa'uld weapons have the following modifiers:
 
 Because of the advanced nature of Goa'uld technology, these weapons do not suffer the **Real Weapon** or **Charges** limitations that corresponding [human weaponry](human-equipment.md#weapons) does.
 
+#### Shock Grenade
+
+**See also:** [Lexicon: Shock Grenade](http://www.rdanderson.com/stargate/lexicon/entries/shockgrenade.htm)
+
 #### Staff Weapon
+
+**See also:** [Lexicon: Staff Weapon](http://www.rdanderson.com/stargate/lexicon/entries/staffweapon.htm)
 
 The Goa'uld staff weapon is the preferred weapon of Jaffa warriors. It uses a liquid naquadah power source and fires an energy blast, the power of which is variable depending on factors such as the time allowed for recycling between shots. It is a weapon of great power and endurance, but less accurate than Earth weapons.
 
@@ -82,9 +88,9 @@ The Goa'uld staff weapon is the preferred weapon of Jaffa warriors. It uses a li
 * RKA 3d6; +1 Increased STUN Multiplier (+1/4); Beam (-1/4), OAF (-1), Limited Range 60m (-1/4), Required Hands 2H (-1/2), STR Min 13 (Cannot Add/Subtract Damage; -1), -1 Range Mod, Side Effect occurs automatically whenever Power is used (-1/2) &mdash; **Active Cost:** 56, **Real Cost:** 12
 * **Liquid Naquadah Battery:** END Reserve (24 END, 24 REC); OAF (-1), Linked to RKA (-1/4) &mdash; **Active Cost:** 22, **Real Cost:** 10
 
-#### Tok'Kal Grenade
+#### Zat'nik'tel (aka Zat Gun or Zat)
 
-#### Zat'nik'tel
+**See also:** [Lexicon: Zat'nik'tel](http://www.rdanderson.com/stargate/lexicon/entries/zatniktel.htm)
 
 ## Goa'uld Devices
 
