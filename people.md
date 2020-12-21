@@ -6,7 +6,7 @@ Little gray men who masqueraded as the Norse gods long ago and now protect sever
 
 ## Furlings
 
-An advanced alien race that is part of the [Alliance of Four Great Races](http://stargate.wikia.com/wiki/Alliance_of_Four_Great_Races).
+An advanced alien race that is part of the [Alliance of Four Great Races][alliance].
 
 ## Goa'uld
 
@@ -86,3 +86,9 @@ This set of everyman skills is for Jaffa that were raised in service to a Goa'ul
 ### Templates
 
 * [Implanted Jaffa](templates/implanted-jaffa.md)
+
+## Nox
+
+The Nox, a peaceful and highly advanced race native to P3X-774, are one of the members of the [Ancient Alliance of four great races][alliance].
+
+[alliance]: http://stargate.wikia.com/wiki/Alliance_of_Four_Great_Races
