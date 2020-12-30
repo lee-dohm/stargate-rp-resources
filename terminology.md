@@ -2,12 +2,12 @@
 
 ## Character sheet abbreviations
 
-* **AK:** Area Knowledge
-* **HKA:** Killing Attack - Hand-to-Hand
-* **KS:** Knowledge Skill
-* **PS:** Professional Skill
-* **RKA:** Killing Attack - Ranged
-* **SS:** Science Skill
+* **AK:** Area Knowledge &mdash; 6E1 79
+* **HKA:** Killing Attack - Hand-to-Hand &mdash; 6E1 241
+* **KS:** Knowledge Skill &mdash; 6E1 79
+* **PS:** Professional Skill &mdash; 6E1 86
+* **RKA:** Killing Attack - Ranged &mdash; 6E1 241
+* **SS:** Science Skill &mdash; 6E1 87
 
 ## Rulebook abbreviations
 
