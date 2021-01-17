@@ -60,3 +60,6 @@ Value | Complication
  Complications         | 0    
  **Total**             | 0    
 
+## Notes
+
+* Used F/A-18C Hornet from 5E TUV 77 as a starting point.
