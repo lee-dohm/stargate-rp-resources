@@ -1,6 +1,6 @@
 # Vehicle Name
 
-<!-- Character biography -->
+<!-- Vehicle description and notes -->
 
 ## Characteristics
 
