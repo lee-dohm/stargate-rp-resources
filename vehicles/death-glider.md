@@ -16,7 +16,6 @@ Val | Char | Points | Notes
 6  | ED   | 4 |
 20 | BODY  | 1 | 
 
-
 **Total Characteristics Cost:** 171
 
 ### Movement
@@ -24,7 +23,6 @@ Val | Char | Points | Notes
 Type | Val | Cost
 :----|----:|----:
 Ground  | 12m | 0
-Swimming | 4m | 0
 
 **Total Movement Cost:** 0
 
@@ -32,6 +30,7 @@ Swimming | 4m | 0
 
 Cost | Description | END
 ----:|:------------|---:
+-2   | _Cannot swim:_ Swimming -4m (0m total) |
 
 **Total Powers Cost:** 0
 
@@ -39,15 +38,18 @@ Cost | Description | END
 
 Cost | Skill | Roll
 ----:|-------|-----
+6    | _Advanced Flight Systems:_ +3 with Flight
+15   | _Advanced Targeting Systems:_ +3 with Ranged Combat
 
-**Total Skills Cost:** 0
+**Total Skills Cost:** 21
 
 ## Complications
 
 Value | Complication
 -----:|-------------
+25    | Distinctive Features: Goa'uld attack fighter (Not Concealable; Causes Extreme Reaction [fear])
 
-**Total Complications Value:** 0
+**Total Complications Value:** 25
 
 ## Totals
 
@@ -56,8 +58,8 @@ Value | Complication
  Characteristics       | 0    
  Movement              | 0    
  Abilities & Equipment | 0    
- Skills                | 0    
- Complications         | 0    
+ Skills                | 21
+ Complications         | -25   
  **Total**             | 0    
 
 ## Notes
