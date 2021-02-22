@@ -57,12 +57,12 @@ Value | Complication
 
  Section               | Cost 
 -----------------------|-----:
- Characteristics       | 0    
- Movement              | 0    
- Abilities & Equipment | 0    
+ Characteristics       | 196
+ Movement              | 0
+ Abilities & Equipment | 0
  Skills                | 21
- Complications         | -25   
- **Total**             | 0    
+ Complications         | -25
+ **Total**             | 192
 
 ## Notes
 
