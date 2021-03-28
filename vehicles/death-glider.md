@@ -34,7 +34,7 @@ Cost | Description | END
 63   | _Staff Cannon Power Core:_ END Reserve (40 END, 35 REC)
 -2   | _Cannot swim:_ Swimming -4m (0m total) |
 
-**Total Powers Cost:** 0
+**Total Abilities & Equipment Cost:** 106
 
 ## Skills
 
@@ -59,10 +59,10 @@ Value | Complication
 -----------------------|-----:
  Characteristics       | 196
  Movement              | 0
- Abilities & Equipment | 0
+ Abilities & Equipment | 106
  Skills                | 21
  Complications         | -25
- **Total**             | 192
+ **Total**             | 298 / 5 = 60
 
 ## Notes
 
