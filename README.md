@@ -12,6 +12,7 @@ This is a collection of [Stargate][wiki] roleplaying resources for the [HERO Sys
 * [Notes](notes.md)
 * [People](people.md)
 * [Terminology](terminology.md)
+* [Vehicles](vehicles/README.md)
 
 ## Resources
 
