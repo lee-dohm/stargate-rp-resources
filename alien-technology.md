@@ -15,6 +15,8 @@ Control crystals are crystals designed to regulate various functions in advanced
 * **Weapons-grade Naquadah** &mdash; Naquadah in its purest form
 * **Naquadria** &mdash; A radioactive form of naquadah that can be used as an enormous power source but is highly unstable
 
+Naquadah is also found in the bloodstream of Goa'uld symbiotes and their hosts. When microscopic amounts of naquadah are infused into the bloodstream of a living organism, coupled with their bioelectric field, those organisms are able to detect nearby concentrations of naquadah. This can include being able to sense other Goa'uld, hosts, Jaffa, Stargates, or other concentrations of the mineral.
+
 ## Stargates and the Stargate System
 
 Stargates, also called _chaapa'ai_ in the language of the natives kidnapped by the Goa'uld from Earth, provide point-to-point near-instantaneous faster-than-light travel, typically between two worlds. Any stargate can connect to any other stargate so long as there is sufficient power available and one knows the address of the destination gate. It does this by creating a stable wormhole that will allow matter to pass only from the source gate to the destination gate but will allow electromagnetism, gravity, and possibly other forms of energy to flow both directions.
