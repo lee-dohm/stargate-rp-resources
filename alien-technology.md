@@ -71,9 +71,8 @@ All Goa'uld weapons have the following modifiers:
 
 * **Focus:** OAF, Universal _see_ 6E1 376
 * **STR Minimum** _see_ 6E2 199
+* **Real Weapon** _see_ 6E2 200-201, which also makes them susceptible to firearms malfunction rules, _see_ 6E2 207
 * **Beam** _see_ 6E1 145
-
-Because of the advanced nature of Goa'uld technology, these weapons do not suffer the **Real Weapon** or **Charges** limitations that corresponding [human weaponry](human-equipment.md#weapons) does.
 
 #### Shock Grenade
 
@@ -87,7 +86,7 @@ The Goa'uld staff weapon is the preferred weapon of Jaffa warriors. It uses a li
 
 **Staff Weapon:** 3d6 RKA, +1 STUNx, Two-Handed, STR Min 13, -1 RMod, Limited Range (60m), 4 shots per Turn (due to liquid naquadah battery)
 
-* RKA 3d6; +1 Increased STUN Multiplier (+1/4); Beam (-1/4), OAF (-1), Limited Range 60m (-1/4), Required Hands 2H (-1/2), STR Min 13 (Cannot Add/Subtract Damage; -1), -1 Range Mod, Side Effect occurs automatically whenever Power is used (-1/2) &mdash; **Active Cost:** 56, **Real Cost:** 12
+* RKA 3d6; +1 Increased STUN Multiplier (+1/4); Beam (-1/4), OAF (-1), Real Weapon (-1/4), Limited Range 60m (-1/4), Required Hands 2H (-1/2), STR Min 13 (Cannot Add/Subtract Damage; -1), -1 Range Mod, Side Effect occurs automatically whenever Power is used (-1/2) &mdash; **Active Cost:** 56, **Real Cost:** 12
 * **Liquid Naquadah Battery:** END Reserve (24 END, 24 REC); OAF (-1), Linked to RKA (-1/4) &mdash; **Active Cost:** 22, **Real Cost:** 10
 
 #### Zat'nik'tel (aka Zat Gun or Zat)
